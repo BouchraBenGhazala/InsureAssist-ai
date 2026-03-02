@@ -45,8 +45,11 @@ The AI agent is powered by **Mistral AI** and controlled through a **strict prom
 ## Project Structure
 .
 ├── app.py # Main Streamlit application
+
 ├── processus.md # Insurance claim process definition
+
 ├── .env # API keys (not committed)
+
 ├── README.md # Project documentation
 
 
